@@ -1,0 +1,603 @@
+[10-Nov-2021 19:56:24 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromjpeg() in C:\xampp8\htdocs\adminescuela\controladores\alumno.controlador.php:283
+Stack trace:
+#0 C:\xampp8\htdocs\adminescuela\vistas\modulos\login.php(232): ControladorAlumno->ctrRegistroAlumno()
+#1 C:\xampp8\htdocs\adminescuela\vistas\plantilla.php(172): include('C:\\xampp8\\htdoc...')
+#2 C:\xampp8\htdocs\adminescuela\controladores\plantilla.controlador.php(8): include('C:\\xampp8\\htdoc...')
+#3 C:\xampp8\htdocs\adminescuela\index.php(47): ControladorPlantilla->plantilla()
+#4 {main}
+  thrown in C:\xampp8\htdocs\adminescuela\controladores\alumno.controlador.php on line 283
+[13-Nov-2021 17:30:29 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp8\htdocs\adminescuela\vistas\modulos\alumno\uniformesHombre.php on line 33
+[13-Nov-2021 17:30:29 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp8\htdocs\adminescuela\vistas\modulos\alumno\uniformesHombre.php on line 33
+[13-Nov-2021 17:30:29 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp8\htdocs\adminescuela\vistas\modulos\alumno\uniformesHombre.php on line 33
+[13-Nov-2021 17:30:42 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp8\htdocs\adminescuela\vistas\modulos\alumno\uniformesHombre.php on line 33
+[13-Nov-2021 17:30:42 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp8\htdocs\adminescuela\vistas\modulos\alumno\uniformesHombre.php on line 33
+[13-Nov-2021 17:30:42 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp8\htdocs\adminescuela\vistas\modulos\alumno\uniformesHombre.php on line 33
+[14-Nov-2021 20:21:21 America/Mexico_City] PHP Fatal error:  Uncaught Error: Non-static method Ruta::ctrRutaServidor() cannot be called statically in C:\xampp8\htdocs\webistitucional\vistas\modulos\complements\header.php:2
+Stack trace:
+#0 C:\xampp8\htdocs\webistitucional\vistas\plantilla.php(179): require_once()
+#1 C:\xampp8\htdocs\webistitucional\controladores\plantilla.controlador.php(8): include('C:\\xampp8\\htdoc...')
+#2 C:\xampp8\htdocs\webistitucional\index.php(47): ControladorPlantilla->plantilla()
+#3 {main}
+  thrown in C:\xampp8\htdocs\webistitucional\vistas\modulos\complements\header.php on line 2
+[14-Nov-2021 20:25:45 America/Mexico_City] PHP Fatal error:  Uncaught Error: Non-static method Ruta::ctrRutaServidor() cannot be called statically in C:\xampp8\htdocs\webistitucional\vistas\modulos\complements\header.php:2
+Stack trace:
+#0 C:\xampp8\htdocs\webistitucional\vistas\plantilla.php(179): require_once()
+#1 C:\xampp8\htdocs\webistitucional\controladores\plantilla.controlador.php(8): include('C:\\xampp8\\htdoc...')
+#2 C:\xampp8\htdocs\webistitucional\index.php(47): ControladorPlantilla->plantilla()
+#3 {main}
+  thrown in C:\xampp8\htdocs\webistitucional\vistas\modulos\complements\header.php on line 2
+[14-Nov-2021 20:27:33 America/Mexico_City] PHP Fatal error:  Uncaught Error: Non-static method Ruta::ctrRutaServidor() cannot be called statically in C:\xampp8\htdocs\webistitucional\vistas\modulos\complements\header.php:2
+Stack trace:
+#0 C:\xampp8\htdocs\webistitucional\vistas\plantilla.php(179): require_once()
+#1 C:\xampp8\htdocs\webistitucional\controladores\plantilla.controlador.php(8): include('C:\\xampp8\\htdoc...')
+#2 C:\xampp8\htdocs\webistitucional\index.php(47): ControladorPlantilla->plantilla()
+#3 {main}
+  thrown in C:\xampp8\htdocs\webistitucional\vistas\modulos\complements\header.php on line 2
+[14-Nov-2021 21:21:10 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp8\htdocs\webistitucional\vistas\modulos\alumno\uniformesHombre.php on line 33
+[14-Nov-2021 21:21:10 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp8\htdocs\webistitucional\vistas\modulos\alumno\uniformesHombre.php on line 33
+[14-Nov-2021 21:21:10 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp8\htdocs\webistitucional\vistas\modulos\alumno\uniformesHombre.php on line 33
+[14-Nov-2021 21:23:52 America/Mexico_City] PHP Warning:  Undefined variable $detalleA in C:\xampp8\htdocs\webistitucional\vistas\modulos\alumno\uniformesHombre.php on line 35
+[14-Nov-2021 21:23:52 America/Mexico_City] PHP Warning:  Undefined variable $detalleA in C:\xampp8\htdocs\webistitucional\vistas\modulos\alumno\uniformesHombre.php on line 35
+[14-Nov-2021 21:26:31 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp8\htdocs\webistitucional\vistas\modulos\alumno\uniformesHombre.php on line 33
+[14-Nov-2021 21:26:31 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp8\htdocs\webistitucional\vistas\modulos\alumno\uniformesHombre.php on line 33
+[14-Nov-2021 21:26:31 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp8\htdocs\webistitucional\vistas\modulos\alumno\uniformesHombre.php on line 33
+[14-Nov-2021 23:16:41 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp8\htdocs\webistitucional\controladores\alumno.controlador.php on line 569
+[14-Nov-2021 23:17:04 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp8\htdocs\webistitucional\controladores\alumno.controlador.php on line 569
+[14-Nov-2021 23:30:21 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp8\htdocs\webistitucional\vistas\modulos\documentos.php on line 74
+[14-Nov-2021 23:30:21 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp8\htdocs\webistitucional\vistas\modulos\documentos.php on line 74
+[14-Nov-2021 23:30:21 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp8\htdocs\webistitucional\vistas\modulos\documentos.php on line 74
+[14-Nov-2021 23:32:46 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp8\htdocs\webistitucional\vistas\modulos\documentos.php on line 74
+[14-Nov-2021 23:32:46 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp8\htdocs\webistitucional\vistas\modulos\documentos.php on line 74
+[14-Nov-2021 23:32:46 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp8\htdocs\webistitucional\vistas\modulos\documentos.php on line 74
+[23-Dec-2021 13:24:07 America/Mexico_City] PHP Warning:  Undefined variable $tabla in C:\xampp8\htdocs\Web-Institucional\controladores\alumno.controlador.php on line 324
+[23-Dec-2021 13:24:07 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(foto_al,
+            nombre_al,
+            apellidoPaterno_al,
+         ...' at line 2 in C:\xampp8\htdocs\Web-Institucional\modelos\alumno.modelo.php:468
+Stack trace:
+#0 C:\xampp8\htdocs\Web-Institucional\modelos\alumno.modelo.php(468): PDOStatement->execute()
+#1 C:\xampp8\htdocs\Web-Institucional\controladores\alumno.controlador.php(324): ModeloAlumno::mdlRegistrarAlumno(NULL, Array)
+#2 C:\xampp8\htdocs\Web-Institucional\vistas\modulos\complements\header.php(274): ControladorAlumno->ctrRegistroAlumno()
+#3 C:\xampp8\htdocs\Web-Institucional\vistas\plantilla.php(181): require_once('C:\\xampp8\\htdoc...')
+#4 C:\xampp8\htdocs\Web-Institucional\controladores\plantilla.controlador.php(8): include('C:\\xampp8\\htdoc...')
+#5 C:\xampp8\htdocs\Web-Institucional\index.php(47): ControladorPlantilla->plantilla()
+#6 {main}
+  thrown in C:\xampp8\htdocs\Web-Institucional\modelos\alumno.modelo.php on line 468
+[23-Dec-2021 15:51:39 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php:113
+Stack trace:
+#0 C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php(113): PDOStatement->execute()
+#1 C:\xampp8\htdocs\Web-Institucional\vistas\modulos\horarioClases.php(195): ControladorHorarioC->ctrCrearClase()
+#2 C:\xampp8\htdocs\Web-Institucional\vistas\plantilla.php(171): include('C:\\xampp8\\htdoc...')
+#3 C:\xampp8\htdocs\Web-Institucional\controladores\plantilla.controlador.php(8): include('C:\\xampp8\\htdoc...')
+#4 C:\xampp8\htdocs\Web-Institucional\index.php(47): ControladorPlantilla->plantilla()
+#5 {main}
+  thrown in C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php on line 113
+[23-Dec-2021 15:51:48 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php:113
+Stack trace:
+#0 C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php(113): PDOStatement->execute()
+#1 C:\xampp8\htdocs\Web-Institucional\vistas\modulos\horarioClases.php(195): ControladorHorarioC->ctrCrearClase()
+#2 C:\xampp8\htdocs\Web-Institucional\vistas\plantilla.php(171): include('C:\\xampp8\\htdoc...')
+#3 C:\xampp8\htdocs\Web-Institucional\controladores\plantilla.controlador.php(8): include('C:\\xampp8\\htdoc...')
+#4 C:\xampp8\htdocs\Web-Institucional\index.php(47): ControladorPlantilla->plantilla()
+#5 {main}
+  thrown in C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php on line 113
+[23-Dec-2021 15:52:10 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php:113
+Stack trace:
+#0 C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php(113): PDOStatement->execute()
+#1 C:\xampp8\htdocs\Web-Institucional\vistas\modulos\horarioClases.php(195): ControladorHorarioC->ctrCrearClase()
+#2 C:\xampp8\htdocs\Web-Institucional\vistas\plantilla.php(171): include('C:\\xampp8\\htdoc...')
+#3 C:\xampp8\htdocs\Web-Institucional\controladores\plantilla.controlador.php(8): include('C:\\xampp8\\htdoc...')
+#4 C:\xampp8\htdocs\Web-Institucional\index.php(47): ControladorPlantilla->plantilla()
+#5 {main}
+  thrown in C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php on line 113
+[23-Dec-2021 15:53:33 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php:113
+Stack trace:
+#0 C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php(113): PDOStatement->execute()
+#1 C:\xampp8\htdocs\Web-Institucional\vistas\modulos\horarioClases.php(195): ControladorHorarioC->ctrCrearClase()
+#2 C:\xampp8\htdocs\Web-Institucional\vistas\plantilla.php(171): include('C:\\xampp8\\htdoc...')
+#3 C:\xampp8\htdocs\Web-Institucional\controladores\plantilla.controlador.php(8): include('C:\\xampp8\\htdoc...')
+#4 C:\xampp8\htdocs\Web-Institucional\index.php(47): ControladorPlantilla->plantilla()
+#5 {main}
+  thrown in C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php on line 113
+[23-Dec-2021 15:58:12 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php:113
+Stack trace:
+#0 C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php(113): PDOStatement->execute()
+#1 C:\xampp8\htdocs\Web-Institucional\vistas\modulos\horarioClases.php(195): ControladorHorarioC->ctrCrearClase()
+#2 C:\xampp8\htdocs\Web-Institucional\vistas\plantilla.php(171): include('C:\\xampp8\\htdoc...')
+#3 C:\xampp8\htdocs\Web-Institucional\controladores\plantilla.controlador.php(8): include('C:\\xampp8\\htdoc...')
+#4 C:\xampp8\htdocs\Web-Institucional\index.php(47): ControladorPlantilla->plantilla()
+#5 {main}
+  thrown in C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php on line 113
+[23-Dec-2021 15:59:41 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php:113
+Stack trace:
+#0 C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php(113): PDOStatement->execute()
+#1 C:\xampp8\htdocs\Web-Institucional\vistas\modulos\horarioClases.php(195): ControladorHorarioC->ctrCrearClase()
+#2 C:\xampp8\htdocs\Web-Institucional\vistas\plantilla.php(171): include('C:\\xampp8\\htdoc...')
+#3 C:\xampp8\htdocs\Web-Institucional\controladores\plantilla.controlador.php(8): include('C:\\xampp8\\htdoc...')
+#4 C:\xampp8\htdocs\Web-Institucional\index.php(47): ControladorPlantilla->plantilla()
+#5 {main}
+  thrown in C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php on line 113
+[23-Dec-2021 16:12:07 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2-14' for key 'validacion' in C:\xampp8\htdocs\Web-Institucional\modelos\horarioClases.modelo.php:222
+Stack trace:
+#0 C:\xampp8\htdocs\Web-Institucional\modelos\horarioClases.modelo.php(222): PDOStatement->execute()
+#1 C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php(170): ModeloHorarioC::mdlIngresarHorarioC('horario_p', Array)
+#2 C:\xampp8\htdocs\Web-Institucional\vistas\modulos\horarioClases.php(195): ControladorHorarioC->ctrCrearClase()
+#3 C:\xampp8\htdocs\Web-Institucional\vistas\plantilla.php(171): include('C:\\xampp8\\htdoc...')
+#4 C:\xampp8\htdocs\Web-Institucional\controladores\plantilla.controlador.php(8): include('C:\\xampp8\\htdoc...')
+#5 C:\xampp8\htdocs\Web-Institucional\index.php(47): ControladorPlantilla->plantilla()
+#6 {main}
+  thrown in C:\xampp8\htdocs\Web-Institucional\modelos\horarioClases.modelo.php on line 222
+[23-Dec-2021 16:12:58 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php:113
+Stack trace:
+#0 C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php(113): PDOStatement->execute()
+#1 C:\xampp8\htdocs\Web-Institucional\vistas\modulos\horarioClases.php(195): ControladorHorarioC->ctrCrearClase()
+#2 C:\xampp8\htdocs\Web-Institucional\vistas\plantilla.php(171): include('C:\\xampp8\\htdoc...')
+#3 C:\xampp8\htdocs\Web-Institucional\controladores\plantilla.controlador.php(8): include('C:\\xampp8\\htdoc...')
+#4 C:\xampp8\htdocs\Web-Institucional\index.php(47): ControladorPlantilla->plantilla()
+#5 {main}
+  thrown in C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php on line 113
+[23-Dec-2021 16:13:18 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php:113
+Stack trace:
+#0 C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php(113): PDOStatement->execute()
+#1 C:\xampp8\htdocs\Web-Institucional\vistas\modulos\horarioClases.php(195): ControladorHorarioC->ctrCrearClase()
+#2 C:\xampp8\htdocs\Web-Institucional\vistas\plantilla.php(171): include('C:\\xampp8\\htdoc...')
+#3 C:\xampp8\htdocs\Web-Institucional\controladores\plantilla.controlador.php(8): include('C:\\xampp8\\htdoc...')
+#4 C:\xampp8\htdocs\Web-Institucional\index.php(47): ControladorPlantilla->plantilla()
+#5 {main}
+  thrown in C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php on line 113
+[23-Dec-2021 16:16:42 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php:113
+Stack trace:
+#0 C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php(113): PDOStatement->execute()
+#1 C:\xampp8\htdocs\Web-Institucional\vistas\modulos\horarioClases.php(195): ControladorHorarioC->ctrCrearClase()
+#2 C:\xampp8\htdocs\Web-Institucional\vistas\plantilla.php(171): include('C:\\xampp8\\htdoc...')
+#3 C:\xampp8\htdocs\Web-Institucional\controladores\plantilla.controlador.php(8): include('C:\\xampp8\\htdoc...')
+#4 C:\xampp8\htdocs\Web-Institucional\index.php(47): ControladorPlantilla->plantilla()
+#5 {main}
+  thrown in C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php on line 113
+[23-Dec-2021 16:23:49 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\xampp8\htdocs\adminescuela\controladores\horarioClases.controlador.php:113
+Stack trace:
+#0 C:\xampp8\htdocs\adminescuela\controladores\horarioClases.controlador.php(113): PDOStatement->execute()
+#1 C:\xampp8\htdocs\adminescuela\vistas\modulos\horarioClases.php(195): ControladorHorarioC->ctrCrearClase()
+#2 C:\xampp8\htdocs\adminescuela\vistas\plantilla.php(162): include('C:\\xampp8\\htdoc...')
+#3 C:\xampp8\htdocs\adminescuela\controladores\plantilla.controlador.php(8): include('C:\\xampp8\\htdoc...')
+#4 C:\xampp8\htdocs\adminescuela\index.php(47): ControladorPlantilla->plantilla()
+#5 {main}
+  thrown in C:\xampp8\htdocs\adminescuela\controladores\horarioClases.controlador.php on line 113
+[23-Dec-2021 18:29:32 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\xampp8\htdocs\adminescuela\controladores\horarioClases.controlador.php:113
+Stack trace:
+#0 C:\xampp8\htdocs\adminescuela\controladores\horarioClases.controlador.php(113): PDOStatement->execute()
+#1 C:\xampp8\htdocs\adminescuela\vistas\modulos\horarioClases.php(195): ControladorHorarioC->ctrCrearClase()
+#2 C:\xampp8\htdocs\adminescuela\vistas\plantilla.php(162): include('C:\\xampp8\\htdoc...')
+#3 C:\xampp8\htdocs\adminescuela\controladores\plantilla.controlador.php(8): include('C:\\xampp8\\htdoc...')
+#4 C:\xampp8\htdocs\adminescuela\index.php(47): ControladorPlantilla->plantilla()
+#5 {main}
+  thrown in C:\xampp8\htdocs\adminescuela\controladores\horarioClases.controlador.php on line 113
+[23-Dec-2021 18:30:23 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php:113
+Stack trace:
+#0 C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php(113): PDOStatement->execute()
+#1 C:\xampp8\htdocs\Web-Institucional\vistas\modulos\horarioClases.php(195): ControladorHorarioC->ctrCrearClase()
+#2 C:\xampp8\htdocs\Web-Institucional\vistas\plantilla.php(171): include('C:\\xampp8\\htdoc...')
+#3 C:\xampp8\htdocs\Web-Institucional\controladores\plantilla.controlador.php(8): include('C:\\xampp8\\htdoc...')
+#4 C:\xampp8\htdocs\Web-Institucional\index.php(47): ControladorPlantilla->plantilla()
+#5 {main}
+  thrown in C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php on line 113
+[23-Dec-2021 18:36:25 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php:113
+Stack trace:
+#0 C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php(113): PDOStatement->execute()
+#1 C:\xampp8\htdocs\Web-Institucional\vistas\modulos\horarioClases.php(195): ControladorHorarioC::ctrCrearClase()
+#2 C:\xampp8\htdocs\Web-Institucional\vistas\plantilla.php(171): include('C:\\xampp8\\htdoc...')
+#3 C:\xampp8\htdocs\Web-Institucional\controladores\plantilla.controlador.php(8): include('C:\\xampp8\\htdoc...')
+#4 C:\xampp8\htdocs\Web-Institucional\index.php(47): ControladorPlantilla->plantilla()
+#5 {main}
+  thrown in C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php on line 113
+[23-Dec-2021 18:38:01 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php:113
+Stack trace:
+#0 C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php(113): PDOStatement->execute()
+#1 C:\xampp8\htdocs\Web-Institucional\vistas\modulos\horarioClases.php(195): ControladorHorarioC->ctrCrearClase()
+#2 C:\xampp8\htdocs\Web-Institucional\vistas\plantilla.php(171): include('C:\\xampp8\\htdoc...')
+#3 C:\xampp8\htdocs\Web-Institucional\controladores\plantilla.controlador.php(8): include('C:\\xampp8\\htdoc...')
+#4 C:\xampp8\htdocs\Web-Institucional\index.php(47): ControladorPlantilla->plantilla()
+#5 {main}
+  thrown in C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php on line 113
+[23-Dec-2021 18:38:56 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php:113
+Stack trace:
+#0 C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php(113): PDOStatement->execute()
+#1 C:\xampp8\htdocs\Web-Institucional\vistas\modulos\horarioClases.php(195): ControladorHorarioC->ctrCrearClase()
+#2 C:\xampp8\htdocs\Web-Institucional\vistas\plantilla.php(171): include('C:\\xampp8\\htdoc...')
+#3 C:\xampp8\htdocs\Web-Institucional\controladores\plantilla.controlador.php(8): include('C:\\xampp8\\htdoc...')
+#4 C:\xampp8\htdocs\Web-Institucional\index.php(47): ControladorPlantilla->plantilla()
+#5 {main}
+  thrown in C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php on line 113
+[23-Dec-2021 18:46:18 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php:113
+Stack trace:
+#0 C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php(113): PDOStatement->execute()
+#1 C:\xampp8\htdocs\Web-Institucional\vistas\modulos\horarioClases.php(195): ControladorHorarioC->ctrCrearClase()
+#2 C:\xampp8\htdocs\Web-Institucional\vistas\plantilla.php(171): include('C:\\xampp8\\htdoc...')
+#3 C:\xampp8\htdocs\Web-Institucional\controladores\plantilla.controlador.php(8): include('C:\\xampp8\\htdoc...')
+#4 C:\xampp8\htdocs\Web-Institucional\index.php(47): ControladorPlantilla->plantilla()
+#5 {main}
+  thrown in C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php on line 113
+[23-Dec-2021 18:50:48 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php:113
+Stack trace:
+#0 C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php(113): PDOStatement->execute()
+#1 C:\xampp8\htdocs\Web-Institucional\vistas\modulos\horarioClases.php(195): ControladorHorarioC->ctrCrearClase()
+#2 C:\xampp8\htdocs\Web-Institucional\vistas\plantilla.php(171): include('C:\\xampp8\\htdoc...')
+#3 C:\xampp8\htdocs\Web-Institucional\controladores\plantilla.controlador.php(8): include('C:\\xampp8\\htdoc...')
+#4 C:\xampp8\htdocs\Web-Institucional\index.php(47): ControladorPlantilla->plantilla()
+#5 {main}
+  thrown in C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php on line 113
+[23-Dec-2021 18:52:26 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php:113
+Stack trace:
+#0 C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php(113): PDOStatement->execute()
+#1 C:\xampp8\htdocs\Web-Institucional\vistas\modulos\horarioClases.php(195): ControladorHorarioC->ctrCrearClase()
+#2 C:\xampp8\htdocs\Web-Institucional\vistas\plantilla.php(171): include('C:\\xampp8\\htdoc...')
+#3 C:\xampp8\htdocs\Web-Institucional\controladores\plantilla.controlador.php(8): include('C:\\xampp8\\htdoc...')
+#4 C:\xampp8\htdocs\Web-Institucional\index.php(47): ControladorPlantilla->plantilla()
+#5 {main}
+  thrown in C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php on line 113
+[23-Dec-2021 18:55:17 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '13-MARTES-12:00:00' for key 'valmaestro' in C:\xampp8\htdocs\Web-Institucional\modelos\horarioClases.modelo.php:222
+Stack trace:
+#0 C:\xampp8\htdocs\Web-Institucional\modelos\horarioClases.modelo.php(222): PDOStatement->execute()
+#1 C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php(170): ModeloHorarioC::mdlIngresarHorarioC('horario_p', Array)
+#2 C:\xampp8\htdocs\Web-Institucional\vistas\modulos\horarioClases.php(195): ControladorHorarioC->ctrCrearClase()
+#3 C:\xampp8\htdocs\Web-Institucional\vistas\plantilla.php(171): include('C:\\xampp8\\htdoc...')
+#4 C:\xampp8\htdocs\Web-Institucional\controladores\plantilla.controlador.php(8): include('C:\\xampp8\\htdoc...')
+#5 C:\xampp8\htdocs\Web-Institucional\index.php(47): ControladorPlantilla->plantilla()
+#6 {main}
+  thrown in C:\xampp8\htdocs\Web-Institucional\modelos\horarioClases.modelo.php on line 222
+[23-Dec-2021 18:56:04 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php:113
+Stack trace:
+#0 C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php(113): PDOStatement->execute()
+#1 C:\xampp8\htdocs\Web-Institucional\vistas\modulos\horarioClases.php(195): ControladorHorarioC->ctrCrearClase()
+#2 C:\xampp8\htdocs\Web-Institucional\vistas\plantilla.php(171): include('C:\\xampp8\\htdoc...')
+#3 C:\xampp8\htdocs\Web-Institucional\controladores\plantilla.controlador.php(8): include('C:\\xampp8\\htdoc...')
+#4 C:\xampp8\htdocs\Web-Institucional\index.php(47): ControladorPlantilla->plantilla()
+#5 {main}
+  thrown in C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php on line 113
+[23-Dec-2021 18:56:50 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php:113
+Stack trace:
+#0 C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php(113): PDOStatement->execute()
+#1 C:\xampp8\htdocs\Web-Institucional\vistas\modulos\horarioClases.php(195): ControladorHorarioC::ctrCrearClase()
+#2 C:\xampp8\htdocs\Web-Institucional\vistas\plantilla.php(171): include('C:\\xampp8\\htdoc...')
+#3 C:\xampp8\htdocs\Web-Institucional\controladores\plantilla.controlador.php(8): include('C:\\xampp8\\htdoc...')
+#4 C:\xampp8\htdocs\Web-Institucional\index.php(47): ControladorPlantilla->plantilla()
+#5 {main}
+  thrown in C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php on line 113
+[23-Dec-2021 18:59:10 America/Mexico_City] PHP Warning:  Undefined variable $stm in C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php on line 110
+[23-Dec-2021 18:59:10 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php:114
+Stack trace:
+#0 C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php(114): PDOStatement->execute()
+#1 C:\xampp8\htdocs\Web-Institucional\vistas\modulos\horarioClases.php(195): ControladorHorarioC::ctrCrearClase()
+#2 C:\xampp8\htdocs\Web-Institucional\vistas\plantilla.php(171): include('C:\\xampp8\\htdoc...')
+#3 C:\xampp8\htdocs\Web-Institucional\controladores\plantilla.controlador.php(8): include('C:\\xampp8\\htdoc...')
+#4 C:\xampp8\htdocs\Web-Institucional\index.php(47): ControladorPlantilla->plantilla()
+#5 {main}
+  thrown in C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php on line 114
+[23-Dec-2021 18:59:30 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php:114
+Stack trace:
+#0 C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php(114): PDOStatement->execute()
+#1 C:\xampp8\htdocs\Web-Institucional\vistas\modulos\horarioClases.php(195): ControladorHorarioC::ctrCrearClase()
+#2 C:\xampp8\htdocs\Web-Institucional\vistas\plantilla.php(171): include('C:\\xampp8\\htdoc...')
+#3 C:\xampp8\htdocs\Web-Institucional\controladores\plantilla.controlador.php(8): include('C:\\xampp8\\htdoc...')
+#4 C:\xampp8\htdocs\Web-Institucional\index.php(47): ControladorPlantilla->plantilla()
+#5 {main}
+  thrown in C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php on line 114
+[23-Dec-2021 19:11:05 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '13-MARTES-12:00:00' for key 'valmaestro' in C:\xampp8\htdocs\Web-Institucional\modelos\horarioClases.modelo.php:222
+Stack trace:
+#0 C:\xampp8\htdocs\Web-Institucional\modelos\horarioClases.modelo.php(222): PDOStatement->execute()
+#1 C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php(171): ModeloHorarioC::mdlIngresarHorarioC('horario_p', Array)
+#2 C:\xampp8\htdocs\Web-Institucional\vistas\modulos\horarioClases.php(195): ControladorHorarioC::ctrCrearClase()
+#3 C:\xampp8\htdocs\Web-Institucional\vistas\plantilla.php(171): include('C:\\xampp8\\htdoc...')
+#4 C:\xampp8\htdocs\Web-Institucional\controladores\plantilla.controlador.php(8): include('C:\\xampp8\\htdoc...')
+#5 C:\xampp8\htdocs\Web-Institucional\index.php(47): ControladorPlantilla->plantilla()
+#6 {main}
+  thrown in C:\xampp8\htdocs\Web-Institucional\modelos\horarioClases.modelo.php on line 222
+[23-Dec-2021 19:16:45 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':00' at line 7 in C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php:149
+Stack trace:
+#0 C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php(149): PDOStatement->execute()
+#1 C:\xampp8\htdocs\Web-Institucional\vistas\modulos\horarioClases.php(195): ControladorHorarioC::ctrCrearClase()
+#2 C:\xampp8\htdocs\Web-Institucional\vistas\plantilla.php(171): include('C:\\xampp8\\htdoc...')
+#3 C:\xampp8\htdocs\Web-Institucional\controladores\plantilla.controlador.php(8): include('C:\\xampp8\\htdoc...')
+#4 C:\xampp8\htdocs\Web-Institucional\index.php(47): ControladorPlantilla->plantilla()
+#5 {main}
+  thrown in C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php on line 149
+[23-Dec-2021 19:19:10 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':00' at line 7 in C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php:149
+Stack trace:
+#0 C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php(149): PDOStatement->execute()
+#1 C:\xampp8\htdocs\Web-Institucional\vistas\modulos\horarioClases.php(195): ControladorHorarioC::ctrCrearClase()
+#2 C:\xampp8\htdocs\Web-Institucional\vistas\plantilla.php(171): include('C:\\xampp8\\htdoc...')
+#3 C:\xampp8\htdocs\Web-Institucional\controladores\plantilla.controlador.php(8): include('C:\\xampp8\\htdoc...')
+#4 C:\xampp8\htdocs\Web-Institucional\index.php(47): ControladorPlantilla->plantilla()
+#5 {main}
+  thrown in C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php on line 149
+[23-Dec-2021 19:40:33 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':00' at line 7 in C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php:149
+Stack trace:
+#0 C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php(149): PDOStatement->execute()
+#1 C:\xampp8\htdocs\Web-Institucional\vistas\modulos\horarioClases.php(195): ControladorHorarioC::ctrCrearClase()
+#2 C:\xampp8\htdocs\Web-Institucional\vistas\plantilla.php(171): include('C:\\xampp8\\htdoc...')
+#3 C:\xampp8\htdocs\Web-Institucional\controladores\plantilla.controlador.php(8): include('C:\\xampp8\\htdoc...')
+#4 C:\xampp8\htdocs\Web-Institucional\index.php(47): ControladorPlantilla->plantilla()
+#5 {main}
+  thrown in C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php on line 149
+[23-Dec-2021 19:41:12 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':00' at line 7 in C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php:149
+Stack trace:
+#0 C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php(149): PDOStatement->execute()
+#1 C:\xampp8\htdocs\Web-Institucional\vistas\modulos\horarioClases.php(195): ControladorHorarioC::ctrCrearClase()
+#2 C:\xampp8\htdocs\Web-Institucional\vistas\plantilla.php(171): include('C:\\xampp8\\htdoc...')
+#3 C:\xampp8\htdocs\Web-Institucional\controladores\plantilla.controlador.php(8): include('C:\\xampp8\\htdoc...')
+#4 C:\xampp8\htdocs\Web-Institucional\index.php(47): ControladorPlantilla->plantilla()
+#5 {main}
+  thrown in C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php on line 149
+[23-Dec-2021 19:44:07 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php:114
+Stack trace:
+#0 C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php(114): PDOStatement->execute()
+#1 C:\xampp8\htdocs\Web-Institucional\vistas\modulos\horarioClases.php(195): ControladorHorarioC::ctrCrearClase()
+#2 C:\xampp8\htdocs\Web-Institucional\vistas\plantilla.php(171): include('C:\\xampp8\\htdoc...')
+#3 C:\xampp8\htdocs\Web-Institucional\controladores\plantilla.controlador.php(8): include('C:\\xampp8\\htdoc...')
+#4 C:\xampp8\htdocs\Web-Institucional\index.php(47): ControladorPlantilla->plantilla()
+#5 {main}
+  thrown in C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php on line 114
+[23-Dec-2021 19:45:14 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php:114
+Stack trace:
+#0 C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php(114): PDOStatement->execute()
+#1 C:\xampp8\htdocs\Web-Institucional\vistas\modulos\horarioClases.php(195): ControladorHorarioC::ctrCrearClase()
+#2 C:\xampp8\htdocs\Web-Institucional\vistas\plantilla.php(171): include('C:\\xampp8\\htdoc...')
+#3 C:\xampp8\htdocs\Web-Institucional\controladores\plantilla.controlador.php(8): include('C:\\xampp8\\htdoc...')
+#4 C:\xampp8\htdocs\Web-Institucional\index.php(47): ControladorPlantilla->plantilla()
+#5 {main}
+  thrown in C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php on line 114
+[23-Dec-2021 19:47:06 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2-1' for key 'validacion' in C:\xampp8\htdocs\Web-Institucional\modelos\horarioClases.modelo.php:222
+Stack trace:
+#0 C:\xampp8\htdocs\Web-Institucional\modelos\horarioClases.modelo.php(222): PDOStatement->execute()
+#1 C:\xampp8\htdocs\Web-Institucional\controladores\horarioClases.controlador.php(171): ModeloHorarioC::mdlIngresarHorarioC('horario_p', Array)
+#2 C:\xampp8\htdocs\Web-Institucional\vistas\modulos\horarioClases.php(195): ControladorHorarioC::ctrCrearClase()
+#3 C:\xampp8\htdocs\Web-Institucional\vistas\plantilla.php(171): include('C:\\xampp8\\htdoc...')
+#4 C:\xampp8\htdocs\Web-Institucional\controladores\plantilla.controlador.php(8): include('C:\\xampp8\\htdoc...')
+#5 C:\xampp8\htdocs\Web-Institucional\index.php(47): ControladorPlantilla->plantilla()
+#6 {main}
+  thrown in C:\xampp8\htdocs\Web-Institucional\modelos\horarioClases.modelo.php on line 222
+[23-Dec-2021 20:21:36 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':00' at line 7 in C:\xampp8\htdocs\adminescuela\controladores\horarioClases.controlador.php:148
+Stack trace:
+#0 C:\xampp8\htdocs\adminescuela\controladores\horarioClases.controlador.php(148): PDOStatement->execute()
+#1 C:\xampp8\htdocs\adminescuela\vistas\modulos\horarioClases.php(195): ControladorHorarioC->ctrCrearClase()
+#2 C:\xampp8\htdocs\adminescuela\vistas\plantilla.php(162): include('C:\\xampp8\\htdoc...')
+#3 C:\xampp8\htdocs\adminescuela\controladores\plantilla.controlador.php(8): include('C:\\xampp8\\htdoc...')
+#4 C:\xampp8\htdocs\adminescuela\index.php(47): ControladorPlantilla->plantilla()
+#5 {main}
+  thrown in C:\xampp8\htdocs\adminescuela\controladores\horarioClases.controlador.php on line 148
+[23-Dec-2021 20:22:28 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':00' at line 7 in C:\xampp8\htdocs\adminescuela\controladores\horarioClases.controlador.php:148
+Stack trace:
+#0 C:\xampp8\htdocs\adminescuela\controladores\horarioClases.controlador.php(148): PDOStatement->execute()
+#1 C:\xampp8\htdocs\adminescuela\vistas\modulos\horarioClases.php(195): ControladorHorarioC->ctrCrearClase()
+#2 C:\xampp8\htdocs\adminescuela\vistas\plantilla.php(162): include('C:\\xampp8\\htdoc...')
+#3 C:\xampp8\htdocs\adminescuela\controladores\plantilla.controlador.php(8): include('C:\\xampp8\\htdoc...')
+#4 C:\xampp8\htdocs\adminescuela\index.php(47): ControladorPlantilla->plantilla()
+#5 {main}
+  thrown in C:\xampp8\htdocs\adminescuela\controladores\horarioClases.controlador.php on line 148
+[24-Dec-2021 03:35:45 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "{", expecting "(" in C:\xampp8\htdocs\Web-Institucional\vistas\plantilla.php on line 180
+[23-Dec-2021 20:53:58 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined method ControladorUsuarios::ctrIngresoUsuario() in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\views\bienvenido.php:45
+Stack trace:
+#0 C:\xampp8\htdocs\Web-Institucional\vistas\plantilla.php(192): include()
+#1 C:\xampp8\htdocs\Web-Institucional\controladores\plantilla.controlador.php(8): include('C:\\xampp8\\htdoc...')
+#2 C:\xampp8\htdocs\Web-Institucional\index.php(47): ControladorPlantilla->plantilla()
+#3 {main}
+  thrown in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\views\bienvenido.php on line 45
+[02-Jan-2022 18:50:08 America/Mexico_City] PHP Warning:  Undefined array key "id" in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\views\registro.php on line 104
+[02-Jan-2022 18:50:08 America/Mexico_City] PHP Warning:  Undefined variable $datatime in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\views\registro.php on line 108
+[02-Jan-2022 18:50:08 America/Mexico_City] PHP Warning:  Undefined array key "matricula_al" in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\views\registro.php on line 120
+[02-Jan-2022 18:50:08 America/Mexico_City] PHP Warning:  Undefined array key "nombre_al" in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\views\registro.php on line 135
+[02-Jan-2022 18:50:08 America/Mexico_City] PHP Warning:  Undefined array key "apellidoPaterno_al" in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\views\registro.php on line 135
+[02-Jan-2022 18:50:08 America/Mexico_City] PHP Warning:  Undefined array key "apellidoMaterno_al" in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\views\registro.php on line 135
+[02-Jan-2022 18:50:08 America/Mexico_City] PHP Warning:  Undefined array key "id" in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\views\registro.php on line 232
+[02-Jan-2022 18:51:56 America/Mexico_City] PHP Warning:  Undefined array key "id" in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\views\registro.php on line 104
+[02-Jan-2022 18:51:56 America/Mexico_City] PHP Warning:  Undefined variable $datatime in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\views\registro.php on line 108
+[02-Jan-2022 18:51:56 America/Mexico_City] PHP Warning:  Undefined array key "matricula_al" in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\views\registro.php on line 120
+[02-Jan-2022 18:51:56 America/Mexico_City] PHP Warning:  Undefined array key "nombre_al" in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\views\registro.php on line 135
+[02-Jan-2022 18:51:56 America/Mexico_City] PHP Warning:  Undefined array key "apellidoPaterno_al" in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\views\registro.php on line 135
+[02-Jan-2022 18:51:56 America/Mexico_City] PHP Warning:  Undefined array key "apellidoMaterno_al" in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\views\registro.php on line 135
+[02-Jan-2022 18:51:56 America/Mexico_City] PHP Warning:  Undefined array key "id" in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\views\registro.php on line 232
+[02-Jan-2022 18:53:13 America/Mexico_City] PHP Warning:  Undefined array key "id" in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\views\registro.php on line 104
+[02-Jan-2022 18:53:13 America/Mexico_City] PHP Warning:  Undefined variable $datatime in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\views\registro.php on line 108
+[02-Jan-2022 18:53:13 America/Mexico_City] PHP Warning:  Undefined array key "matricula_al" in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\views\registro.php on line 120
+[02-Jan-2022 18:53:13 America/Mexico_City] PHP Warning:  Undefined array key "nombre_al" in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\views\registro.php on line 135
+[02-Jan-2022 18:53:13 America/Mexico_City] PHP Warning:  Undefined array key "apellidoPaterno_al" in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\views\registro.php on line 135
+[02-Jan-2022 18:53:13 America/Mexico_City] PHP Warning:  Undefined array key "apellidoMaterno_al" in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\views\registro.php on line 135
+[03-Jan-2022 13:20:50 America/Mexico_City] PHP Warning:  Undefined array key "concepto" in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\views\registro.php on line 57
+[03-Jan-2022 13:20:50 America/Mexico_City] PHP Warning:  Undefined array key "precio" in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\views\registro.php on line 58
+[03-Jan-2022 13:20:50 America/Mexico_City] PHP Warning:  Undefined array key "concepto" in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\views\registro.php on line 57
+[03-Jan-2022 13:20:50 America/Mexico_City] PHP Warning:  Undefined array key "precio" in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\views\registro.php on line 58
+[03-Jan-2022 13:20:50 America/Mexico_City] PHP Warning:  Undefined array key "concepto" in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\views\registro.php on line 57
+[03-Jan-2022 13:20:50 America/Mexico_City] PHP Warning:  Undefined array key "precio" in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\views\registro.php on line 58
+[03-Jan-2022 13:20:50 America/Mexico_City] PHP Warning:  Undefined array key "concepto" in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\views\registro.php on line 57
+[03-Jan-2022 13:20:50 America/Mexico_City] PHP Warning:  Undefined array key "precio" in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\views\registro.php on line 58
+[03-Jan-2022 13:20:50 America/Mexico_City] PHP Warning:  Undefined array key "concepto" in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\views\registro.php on line 57
+[03-Jan-2022 13:20:50 America/Mexico_City] PHP Warning:  Undefined array key "precio" in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\views\registro.php on line 58
+[03-Jan-2022 13:20:50 America/Mexico_City] PHP Warning:  Undefined array key "concepto" in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\views\registro.php on line 57
+[03-Jan-2022 13:20:50 America/Mexico_City] PHP Warning:  Undefined array key "precio" in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\views\registro.php on line 58
+[03-Jan-2022 15:51:38 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp8\htdocs\adminescuela\controladores\alumno.controlador.php on line 569
+[03-Jan-2022 18:04:33 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in C:\xampp8\htdocs\Web-Institucional\modelos\alumno.modelo.php:468
+Stack trace:
+#0 C:\xampp8\htdocs\Web-Institucional\modelos\alumno.modelo.php(468): PDOStatement->execute()
+#1 C:\xampp8\htdocs\Web-Institucional\controladores\alumno.controlador.php(324): ModeloAlumno::mdlRegistrarAlumno('alumno', Array)
+#2 C:\xampp8\htdocs\Web-Institucional\vistas\modulos\complements\header.php(274): ControladorAlumno->ctrRegistroAlumno()
+#3 C:\xampp8\htdocs\Web-Institucional\vistas\plantilla.php(192): require_once('C:\\xampp8\\htdoc...')
+#4 C:\xampp8\htdocs\Web-Institucional\controladores\plantilla.controlador.php(8): include('C:\\xampp8\\htdoc...')
+#5 C:\xampp8\htdocs\Web-Institucional\index.php(47): ControladorPlantilla->plantilla()
+#6 {main}
+  thrown in C:\xampp8\htdocs\Web-Institucional\modelos\alumno.modelo.php on line 468
+[03-Jan-2022 19:54:14 America/Mexico_City] PHP Warning:  Undefined variable $variable in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\mostraralumno.php on line 62
+[03-Jan-2022 19:54:14 America/Mexico_City] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\mostraralumno.php on line 62
+[03-Jan-2022 20:25:07 America/Mexico_City] PHP Warning:  Undefined variable $i in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\mostraralumno.php on line 104
+[03-Jan-2022 20:25:07 America/Mexico_City] PHP Warning:  Undefined array key "" in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\mostraralumno.php on line 104
+[03-Jan-2022 20:25:07 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\mostraralumno.php on line 104
+[03-Jan-2022 21:28:35 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\mostraralumno.php on line 85
+[03-Jan-2022 21:44:05 America/Mexico_City] PHP Warning:  Undefined variable $i in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\mostraralumno.php on line 181
+[03-Jan-2022 21:44:05 America/Mexico_City] PHP Warning:  Undefined array key "" in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\mostraralumno.php on line 181
+[03-Jan-2022 21:44:05 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\mostraralumno.php on line 181
+[03-Jan-2022 22:08:41 America/Mexico_City] PHP Warning:  Undefined array key "nombre" in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\mostraralumno.php on line 138
+[03-Jan-2022 22:08:54 America/Mexico_City] PHP Warning:  Undefined array key "nombre" in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\mostraralumno.php on line 138
+[03-Jan-2022 22:09:19 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\mostraralumno.php on line 138
+[03-Jan-2022 22:46:26 America/Mexico_City] PHP Warning:  Undefined array key 0 in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\mostraralumno.php on line 153
+[03-Jan-2022 22:46:26 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\mostraralumno.php on line 153
+[03-Jan-2022 22:47:05 America/Mexico_City] PHP Warning:  Undefined array key "municipio" in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\mostraralumno.php on line 153
+[03-Jan-2022 22:47:26 America/Mexico_City] PHP Warning:  Undefined array key 0 in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\mostraralumno.php on line 153
+[03-Jan-2022 22:47:26 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\mostraralumno.php on line 153
+[03-Jan-2022 22:48:11 America/Mexico_City] PHP Warning:  Undefined array key "municipio" in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\mostraralumno.php on line 149
+[03-Jan-2022 22:48:11 America/Mexico_City] PHP Warning:  Undefined array key 0 in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\mostraralumno.php on line 153
+[03-Jan-2022 22:48:11 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\mostraralumno.php on line 153
+[03-Jan-2022 22:48:24 America/Mexico_City] PHP Warning:  Undefined array key 0 in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\mostraralumno.php on line 149
+[03-Jan-2022 22:48:24 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\mostraralumno.php on line 149
+[03-Jan-2022 22:48:24 America/Mexico_City] PHP Warning:  Undefined array key 0 in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\mostraralumno.php on line 153
+[03-Jan-2022 22:48:24 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\mostraralumno.php on line 153
+[03-Jan-2022 22:48:41 America/Mexico_City] PHP Warning:  Undefined array key 1 in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\mostraralumno.php on line 149
+[03-Jan-2022 22:48:41 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\mostraralumno.php on line 149
+[03-Jan-2022 22:48:41 America/Mexico_City] PHP Warning:  Undefined array key 0 in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\mostraralumno.php on line 153
+[03-Jan-2022 22:48:41 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\mostraralumno.php on line 153
+[03-Jan-2022 22:50:19 America/Mexico_City] PHP Warning:  Undefined array key 0 in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\mostraralumno.php on line 153
+[03-Jan-2022 22:50:19 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\mostraralumno.php on line 153
+[03-Jan-2022 22:51:06 America/Mexico_City] PHP Warning:  Undefined array key 22 in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\mostraralumno.php on line 153
+[03-Jan-2022 22:51:06 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\mostraralumno.php on line 153
+[03-Jan-2022 22:51:16 America/Mexico_City] PHP Warning:  Undefined array key 2 in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\mostraralumno.php on line 153
+[03-Jan-2022 22:51:16 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\mostraralumno.php on line 153
+[03-Jan-2022 22:52:10 America/Mexico_City] PHP Warning:  Undefined array key 2 in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\mostraralumno.php on line 153
+[03-Jan-2022 22:52:10 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\mostraralumno.php on line 153
+[03-Jan-2022 22:53:32 America/Mexico_City] PHP Warning:  Undefined array key "municipio" in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\mostraralumno.php on line 149
+[03-Jan-2022 22:53:32 America/Mexico_City] PHP Warning:  Undefined array key 0 in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\mostraralumno.php on line 153
+[03-Jan-2022 22:53:32 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\mostraralumno.php on line 153
+[03-Jan-2022 22:54:42 America/Mexico_City] PHP Warning:  Undefined array key 0 in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\mostraralumno.php on line 153
+[03-Jan-2022 22:54:42 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\mostraralumno.php on line 153
+[03-Jan-2022 22:55:08 America/Mexico_City] PHP Warning:  Undefined array key "municipio" in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\mostraralumno.php on line 153
+[03-Jan-2022 22:55:59 America/Mexico_City] PHP Warning:  Undefined array key 0 in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\mostraralumno.php on line 153
+[03-Jan-2022 22:55:59 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\mostraralumno.php on line 153
+[03-Jan-2022 22:56:43 America/Mexico_City] PHP Warning:  Undefined array key 0 in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\mostraralumno.php on line 153
+[03-Jan-2022 22:56:43 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\mostraralumno.php on line 153
+[03-Jan-2022 23:05:50 America/Mexico_City] PHP Warning:  Undefined array key "materia" in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\mostraralumno.php on line 101
+[03-Jan-2022 23:05:50 America/Mexico_City] PHP Warning:  Undefined array key "materia" in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\mostraralumno.php on line 101
+[03-Jan-2022 23:05:50 America/Mexico_City] PHP Warning:  Undefined array key "materia" in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\mostraralumno.php on line 101
+[03-Jan-2022 23:08:44 America/Mexico_City] PHP Warning:  Undefined array key "matricula_al" in C:\xampp8\htdocs\adminescuela\vistas\modulos\pagos.php on line 129
+[03-Jan-2022 23:08:44 America/Mexico_City] PHP Warning:  Undefined array key "nombre_al" in C:\xampp8\htdocs\adminescuela\vistas\modulos\pagos.php on line 144
+[03-Jan-2022 23:08:44 America/Mexico_City] PHP Warning:  Undefined array key "apellidoPaterno_al" in C:\xampp8\htdocs\adminescuela\vistas\modulos\pagos.php on line 144
+[03-Jan-2022 23:08:44 America/Mexico_City] PHP Warning:  Undefined array key "apellidoMaterno_al" in C:\xampp8\htdocs\adminescuela\vistas\modulos\pagos.php on line 144
+[04-Jan-2022 01:08:23 America/Mexico_City] PHP Warning:  Undefined array key "fecha_al" in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\mostraralumno.php on line 186
+[06-Jan-2022 20:37:38 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::close() in C:\xampp8\htdocs\Web-Institucional\modelos\alumno.modelo.php:553
+Stack trace:
+#0 C:\xampp8\htdocs\Web-Institucional\controladores\alumno.controlador.php(979): ModeloAlumno::mdlEditarCursoAl('alumno', Array)
+#1 C:\xampp8\htdocs\Web-Institucional\vistas\modulos\mostraralumno.php(605): ControladorAlumno->ctrEditCursoAl()
+#2 C:\xampp8\htdocs\Web-Institucional\vistas\plantilla.php(171): include('C:\\xampp8\\htdoc...')
+#3 C:\xampp8\htdocs\Web-Institucional\controladores\plantilla.controlador.php(8): include('C:\\xampp8\\htdoc...')
+#4 C:\xampp8\htdocs\Web-Institucional\index.php(47): ControladorPlantilla->plantilla()
+#5 {main}
+  thrown in C:\xampp8\htdocs\Web-Institucional\modelos\alumno.modelo.php on line 553
+[06-Jan-2022 20:50:08 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\xampp8\htdocs\Web-Institucional\modelos\alumno.modelo.php:549
+Stack trace:
+#0 C:\xampp8\htdocs\Web-Institucional\modelos\alumno.modelo.php(549): PDOStatement->execute()
+#1 C:\xampp8\htdocs\Web-Institucional\controladores\alumno.controlador.php(979): ModeloAlumno::mdlEditarCursoAl('alumno', Array)
+#2 C:\xampp8\htdocs\Web-Institucional\vistas\modulos\mostraralumno.php(605): ControladorAlumno->ctrEditCursoAl()
+#3 C:\xampp8\htdocs\Web-Institucional\vistas\plantilla.php(171): include('C:\\xampp8\\htdoc...')
+#4 C:\xampp8\htdocs\Web-Institucional\controladores\plantilla.controlador.php(8): include('C:\\xampp8\\htdoc...')
+#5 C:\xampp8\htdocs\Web-Institucional\index.php(47): ControladorPlantilla->plantilla()
+#6 {main}
+  thrown in C:\xampp8\htdocs\Web-Institucional\modelos\alumno.modelo.php on line 549
+[06-Jan-2022 20:53:18 America/Mexico_City] PHP Fatal error:  Uncaught TypeError: json_decode(): Argument #1 ($json) must be of type string, array given in C:\xampp8\htdocs\Web-Institucional\modelos\alumno.modelo.php:539
+Stack trace:
+#0 C:\xampp8\htdocs\Web-Institucional\modelos\alumno.modelo.php(539): json_decode(Array, true)
+#1 C:\xampp8\htdocs\Web-Institucional\controladores\alumno.controlador.php(979): ModeloAlumno::mdlEditarCursoAl('alumno', Array)
+#2 C:\xampp8\htdocs\Web-Institucional\vistas\modulos\mostraralumno.php(605): ControladorAlumno->ctrEditCursoAl()
+#3 C:\xampp8\htdocs\Web-Institucional\vistas\plantilla.php(171): include('C:\\xampp8\\htdoc...')
+#4 C:\xampp8\htdocs\Web-Institucional\controladores\plantilla.controlador.php(8): include('C:\\xampp8\\htdoc...')
+#5 C:\xampp8\htdocs\Web-Institucional\index.php(47): ControladorPlantilla->plantilla()
+#6 {main}
+  thrown in C:\xampp8\htdocs\Web-Institucional\modelos\alumno.modelo.php on line 539
+[06-Jan-2022 20:53:23 America/Mexico_City] PHP Fatal error:  Uncaught TypeError: json_decode(): Argument #1 ($json) must be of type string, array given in C:\xampp8\htdocs\Web-Institucional\modelos\alumno.modelo.php:539
+Stack trace:
+#0 C:\xampp8\htdocs\Web-Institucional\modelos\alumno.modelo.php(539): json_decode(Array, true)
+#1 C:\xampp8\htdocs\Web-Institucional\controladores\alumno.controlador.php(979): ModeloAlumno::mdlEditarCursoAl('alumno', Array)
+#2 C:\xampp8\htdocs\Web-Institucional\vistas\modulos\mostraralumno.php(605): ControladorAlumno->ctrEditCursoAl()
+#3 C:\xampp8\htdocs\Web-Institucional\vistas\plantilla.php(171): include('C:\\xampp8\\htdoc...')
+#4 C:\xampp8\htdocs\Web-Institucional\controladores\plantilla.controlador.php(8): include('C:\\xampp8\\htdoc...')
+#5 C:\xampp8\htdocs\Web-Institucional\index.php(47): ControladorPlantilla->plantilla()
+#6 {main}
+  thrown in C:\xampp8\htdocs\Web-Institucional\modelos\alumno.modelo.php on line 539
+[06-Jan-2022 20:54:00 America/Mexico_City] PHP Fatal error:  Uncaught TypeError: json_decode(): Argument #1 ($json) must be of type string, array given in C:\xampp8\htdocs\Web-Institucional\modelos\alumno.modelo.php:539
+Stack trace:
+#0 C:\xampp8\htdocs\Web-Institucional\modelos\alumno.modelo.php(539): json_decode(Array, true)
+#1 C:\xampp8\htdocs\Web-Institucional\controladores\alumno.controlador.php(979): ModeloAlumno::mdlEditarCursoAl('alumno', Array)
+#2 C:\xampp8\htdocs\Web-Institucional\vistas\modulos\mostraralumno.php(605): ControladorAlumno->ctrEditCursoAl()
+#3 C:\xampp8\htdocs\Web-Institucional\vistas\plantilla.php(171): include('C:\\xampp8\\htdoc...')
+#4 C:\xampp8\htdocs\Web-Institucional\controladores\plantilla.controlador.php(8): include('C:\\xampp8\\htdoc...')
+#5 C:\xampp8\htdocs\Web-Institucional\index.php(47): ControladorPlantilla->plantilla()
+#6 {main}
+  thrown in C:\xampp8\htdocs\Web-Institucional\modelos\alumno.modelo.php on line 539
+[06-Jan-2022 20:54:17 America/Mexico_City] PHP Fatal error:  Uncaught TypeError: json_decode(): Argument #1 ($json) must be of type string, array given in C:\xampp8\htdocs\Web-Institucional\modelos\alumno.modelo.php:539
+Stack trace:
+#0 C:\xampp8\htdocs\Web-Institucional\modelos\alumno.modelo.php(539): json_decode(Array)
+#1 C:\xampp8\htdocs\Web-Institucional\controladores\alumno.controlador.php(979): ModeloAlumno::mdlEditarCursoAl('alumno', Array)
+#2 C:\xampp8\htdocs\Web-Institucional\vistas\modulos\mostraralumno.php(605): ControladorAlumno->ctrEditCursoAl()
+#3 C:\xampp8\htdocs\Web-Institucional\vistas\plantilla.php(171): include('C:\\xampp8\\htdoc...')
+#4 C:\xampp8\htdocs\Web-Institucional\controladores\plantilla.controlador.php(8): include('C:\\xampp8\\htdoc...')
+#5 C:\xampp8\htdocs\Web-Institucional\index.php(47): ControladorPlantilla->plantilla()
+#6 {main}
+  thrown in C:\xampp8\htdocs\Web-Institucional\modelos\alumno.modelo.php on line 539
+[06-Jan-2022 20:55:35 America/Mexico_City] PHP Fatal error:  Uncaught TypeError: json_decode(): Argument #1 ($json) must be of type string, array given in C:\xampp8\htdocs\Web-Institucional\modelos\alumno.modelo.php:539
+Stack trace:
+#0 C:\xampp8\htdocs\Web-Institucional\modelos\alumno.modelo.php(539): json_decode(Array, true)
+#1 C:\xampp8\htdocs\Web-Institucional\controladores\alumno.controlador.php(979): ModeloAlumno::mdlEditarCursoAl('alumno', Array)
+#2 C:\xampp8\htdocs\Web-Institucional\vistas\modulos\mostraralumno.php(605): ControladorAlumno->ctrEditCursoAl()
+#3 C:\xampp8\htdocs\Web-Institucional\vistas\plantilla.php(171): include('C:\\xampp8\\htdoc...')
+#4 C:\xampp8\htdocs\Web-Institucional\controladores\plantilla.controlador.php(8): include('C:\\xampp8\\htdoc...')
+#5 C:\xampp8\htdocs\Web-Institucional\index.php(47): ControladorPlantilla->plantilla()
+#6 {main}
+  thrown in C:\xampp8\htdocs\Web-Institucional\modelos\alumno.modelo.php on line 539
+[06-Jan-2022 20:56:11 America/Mexico_City] PHP Fatal error:  Uncaught TypeError: json_decode(): Argument #1 ($json) must be of type string, array given in C:\xampp8\htdocs\Web-Institucional\modelos\alumno.modelo.php:539
+Stack trace:
+#0 C:\xampp8\htdocs\Web-Institucional\modelos\alumno.modelo.php(539): json_decode(Array, true)
+#1 C:\xampp8\htdocs\Web-Institucional\controladores\alumno.controlador.php(979): ModeloAlumno::mdlEditarCursoAl('alumno', Array)
+#2 C:\xampp8\htdocs\Web-Institucional\vistas\modulos\mostraralumno.php(605): ControladorAlumno->ctrEditCursoAl()
+#3 C:\xampp8\htdocs\Web-Institucional\vistas\plantilla.php(171): include('C:\\xampp8\\htdoc...')
+#4 C:\xampp8\htdocs\Web-Institucional\controladores\plantilla.controlador.php(8): include('C:\\xampp8\\htdoc...')
+#5 C:\xampp8\htdocs\Web-Institucional\index.php(47): ControladorPlantilla->plantilla()
+#6 {main}
+  thrown in C:\xampp8\htdocs\Web-Institucional\modelos\alumno.modelo.php on line 539
+[06-Jan-2022 21:51:46 America/Mexico_City] PHP Warning:  Undefined array key 0 in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\mostraralumno.php on line 164
+[06-Jan-2022 21:51:46 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in C:\xampp8\htdocs\Web-Institucional\vistas\modulos\mostraralumno.php on line 164
+[07-Jan-2022 02:22:10 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp8\htdocs\adminescuela\controladores\profesor.controlador.php on line 350
+[07-Jan-2022 02:22:20 America/Mexico_City] PHP Warning:  Undefined array key "perfil_ma" in C:\xampp8\htdocs\adminescuela\vistas\modulos\perfilmaestro.php on line 33
+[07-Jan-2022 02:24:13 America/Mexico_City] PHP Warning:  Undefined array key "perfil_ma" in C:\xampp8\htdocs\adminescuela\vistas\modulos\perfilmaestro.php on line 33
+[07-Jan-2022 02:27:49 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp8\htdocs\adminescuela\controladores\alumno.controlador.php on line 569
+[19-Feb-2022 19:29:57 America/Mexico_City] PHP Warning:  Undefined array key "file" in C:\xampp8\htdocs\Web-Institucional\controladores\alumno.controlador.php on line 293
+[19-Feb-2022 19:34:00 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp8\htdocs\Web-Institucional\controladores\profesor.controlador.php on line 350
+[11-Apr-2022 21:09:42 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'adminescuela' in C:\xampp8\htdocs\adminescuela\modelos\conexion.php:12
+Stack trace:
+#0 C:\xampp8\htdocs\adminescuela\modelos\conexion.php(12): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp8\htdocs\adminescuela\modelos\materia.modelo.php(46): Conexion::conectar()
+#2 C:\xampp8\htdocs\adminescuela\controladores\materia.controlador.php(20): ModeloMateria::mdlMostrarMateriaOrden('materia', NULL, NULL)
+#3 C:\xampp8\htdocs\adminescuela\vistas\modulos\horarioClases.php(87): ControladorMateria::ctrMostrarMateriaOrden(NULL, NULL)
+#4 C:\xampp8\htdocs\adminescuela\vistas\plantilla.php(162): include('C:\\xampp8\\htdoc...')
+#5 C:\xampp8\htdocs\adminescuela\controladores\plantilla.controlador.php(8): include('C:\\xampp8\\htdoc...')
+#6 C:\xampp8\htdocs\adminescuela\index.php(47): ControladorPlantilla->plantilla()
+#7 {main}
+  thrown in C:\xampp8\htdocs\adminescuela\modelos\conexion.php on line 12
+[11-Apr-2022 21:14:40 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'adminescuela' in C:\xampp8\htdocs\adminescuela\modelos\conexion.php:12
+Stack trace:
+#0 C:\xampp8\htdocs\adminescuela\modelos\conexion.php(12): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp8\htdocs\adminescuela\modelos\alumno.modelo.php(184): Conexion::conectar()
+#2 C:\xampp8\htdocs\adminescuela\controladores\alumno.controlador.php(39): ModeloAlumno::mdlMostrarAlumnosEdit('alumno', '1')
+#3 C:\xampp8\htdocs\adminescuela\vistas\modulos\alumno\datos.personal.php(260): ControladorAlumno::ctrMostrarAlumnosEdit('1')
+#4 C:\xampp8\htdocs\adminescuela\vistas\modulos\alumno.php(29): include('C:\\xampp8\\htdoc...')
+#5 C:\xampp8\htdocs\adminescuela\vistas\plantilla.php(166): include('C:\\xampp8\\htdoc...')
+#6 C:\xampp8\htdocs\adminescuela\controladores\plantilla.controlador.php(8): include('C:\\xampp8\\htdoc...')
+#7 C:\xampp8\htdocs\adminescuela\index.php(47): ControladorPlantilla->plantilla()
+#8 {main}
+  thrown in C:\xampp8\htdocs\adminescuela\modelos\conexion.php on line 12
+[11-Apr-2022 21:17:18 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'adminescuela' in C:\xampp8\htdocs\adminescuela\modelos\conexion.php:12
+Stack trace:
+#0 C:\xampp8\htdocs\adminescuela\modelos\conexion.php(12): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp8\htdocs\adminescuela\modelos\materia.modelo.php(46): Conexion::conectar()
+#2 C:\xampp8\htdocs\adminescuela\controladores\materia.controlador.php(20): ModeloMateria::mdlMostrarMateriaOrden('materia', NULL, NULL)
+#3 C:\xampp8\htdocs\adminescuela\vistas\modulos\horarioClases.php(87): ControladorMateria::ctrMostrarMateriaOrden(NULL, NULL)
+#4 C:\xampp8\htdocs\adminescuela\vistas\plantilla.php(162): include('C:\\xampp8\\htdoc...')
+#5 C:\xampp8\htdocs\adminescuela\controladores\plantilla.controlador.php(8): include('C:\\xampp8\\htdoc...')
+#6 C:\xampp8\htdocs\adminescuela\index.php(47): ControladorPlantilla->plantilla()
+#7 {main}
+  thrown in C:\xampp8\htdocs\adminescuela\modelos\conexion.php on line 12
+[02-Aug-2022 19:31:39 America/Mexico_City] PHP Warning:  Undefined array key "perfil_ma" in C:\xampp8\htdocs\adminescuela\vistas\modulos\perfilmaestro.php on line 33
